@@ -1,1 +1,1 @@
-# JS-Fundamentals
+This repository contains JavaScript fundamental exercises.# JS-Fundamentals
